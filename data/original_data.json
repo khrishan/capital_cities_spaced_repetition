@@ -1,0 +1,1501 @@
+{
+    "Afganistan": {
+      "capital": "Kabul",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Albania": {
+      "capital": "Tirana",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "American Samoa": {
+      "capital": "Pago Pago",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Algeria": {
+      "capital": "Algiers",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Andorra": {
+      "capital": "Andorra la Vella",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Angola": {
+      "capital": "Luanda",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Anguilla": {
+      "capital": "The Valley",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Antigua and Barbuda": {
+      "capital": "Saint John's",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Argentina": {
+      "capital": "Buenos Aires",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Armenia": {
+      "capital": "Yerevan",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Aruba": {
+      "capital": "Oranjestad",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Australia": {
+      "capital": "Canberra",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Austria": {
+      "capital": "Vienna",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Azerbaijan": {
+      "capital": "Baku",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Bahamas": {
+      "capital": "Nassau",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Bahrain": {
+      "capital": "Manama",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Bangladesh": {
+      "capital": "Dhaka",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Barbados": {
+      "capital": "Bridgetown",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Belarus": {
+      "capital": "Minsk",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Belgium": {
+      "capital": "Brussels",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Belize": {
+      "capital": "Belmopan",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Benin": {
+      "capital": "Porto Novo",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Bermuda": {
+      "capital": "Hamilton",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Bhutan": {
+      "capital": "Thimphu",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Bolivia": {
+      "capital": "La Paz",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Bosnia and Herzegovina": {
+      "capital": "Sarajevo",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Botswana": {
+      "capital": "Gaborone",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Brazil": {
+      "capital": "Brasilia",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "British Virgin Islands": {
+      "capital": "Road Town",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Brunei": {
+      "capital": "Bandar Seri Begawan",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Bulgaria": {
+      "capital": "Sofia",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Burkina Faso": {
+      "capital": "Ouagadougou",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Burundi": {
+      "capital": "Gitega",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Cabo Verde": {
+      "capital": "Praia",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Cambodia": {
+      "capital": "Phnom Penh",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Cameroon": {
+      "capital": "Yaounde",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Canada": {
+      "capital": "Ottawa",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Cayman Islands": {
+      "capital": "George Town",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Central African Republic": {
+      "capital": "Bangui",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Chad": {
+      "capital": "N'Djamena",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Chile": {
+      "capital": "Santiago",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "China": {
+      "capital": "Beijing",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Colombia": {
+      "capital": "Bogota",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Comoros": {
+      "capital": "Moroni",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Democratic Republic of the Congo": {
+      "capital": "Kinshasa",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Republic of the Congo": {
+      "capital": "Brazzaville",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Costa Rica": {
+      "capital": "San Jose",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Ivory Coast": {
+      "capital": "Yamoussoukro",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Croatia": {
+      "capital": "Zagreb",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Curacao": {
+      "capital": "Willemstad",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Cuba": {
+      "capital": "Havana",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Cyprus": {
+      "capital": "Nicosia",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Czech Republic": {
+      "capital": "Prague",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Denmark": {
+      "capital": "Copenhagen",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Djibouti": {
+      "capital": "Djibouti",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Dominica": {
+      "capital": "Roseau",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Dominican Republic": {
+      "capital": "Santo Domingo",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Ecuador": {
+      "capital": "Quito",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Egypt": {
+      "capital": "Cairo",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "El Salvador": {
+      "capital": "San Salvador",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "England": {
+      "capital": "London",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Equatorial Guinea": {
+      "capital": "Malabo",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Eritrea": {
+      "capital": "Asmara",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Estonia": {
+      "capital": "Tallinn",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Eswatini": {
+      "capital": "Mbabana",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Ethiopia": {
+      "capital": "Addis Ababa",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Faroe Islands": {
+      "capital": "Tórshavn",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Fiji": {
+      "capital": "Suva",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Finland": {
+      "capital": "Helsinki",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "France": {
+      "capital": "Paris",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Gabon": {
+      "capital": "Libreville",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Gambia": {
+      "capital": "Banjul",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Georgia": {
+      "capital": "Tbilisi",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Germany": {
+      "capital": "Berlin",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Ghana": {
+      "capital": "Accra",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Gibraltar": {
+      "capital": "Gibraltar",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Greece": {
+      "capital": "Athens",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Grenada": {
+      "capital": "Saint George's",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Guam": {
+      "capital": "Hagåtña",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Guatemala": {
+      "capital": "Guatemala City",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Guinea": {
+      "capital": "Conakry",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Guinea-Bissau": {
+      "capital": "Bissau",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Guyana": {
+      "capital": "Georgetown",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Haiti": {
+      "capital": "Port au Prince",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Honduras": {
+      "capital": "Tegucigalpa",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Hong Kong": {
+      "capital": "Hong Kong",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Hungary": {
+      "capital": "Budapest",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Iceland": {
+      "capital": "Reykjavik",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "India": {
+      "capital": "New Delhi",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Indonesia": {
+      "capital": "Jakarta",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Iran": {
+      "capital": "Tehran",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Iraq": {
+      "capital": "Baghdad",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Ireland": {
+      "capital": "Dublin",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Israel": {
+      "capital": "Jerusalem",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Italy": {
+      "capital": "Rome",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Jamaica": {
+      "capital": "Kingston",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Japan": {
+      "capital": "Tokyo",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Jordan": {
+      "capital": "Amman",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Kazakhstan": {
+      "capital": "Nur-Sultan",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Kenya": {
+      "capital": "Nairobi",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Kiribati": {
+      "capital": "Tarawa Atoll",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Kosovo": {
+      "capital": "Pristina",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Kuwait": {
+      "capital": "Kuwait City",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Kyrgyzstan": {
+      "capital": "Bishkek",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Laos": {
+      "capital": "Vientiane",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Latvia": {
+      "capital": "Riga",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Lebanon": {
+      "capital": "Beirut",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Lesotho": {
+      "capital": "Maseru",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Liberia": {
+      "capital": "Monrovia",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Libya": {
+      "capital": "Tripoli",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Liechtenstein": {
+      "capital": "Vaduz",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Lithuania": {
+      "capital": "Vilnius",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Luxembourg": {
+      "capital": "Luxembourg",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Macau": {
+      "capital": "n/a",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Madagascar": {
+      "capital": "Antananarivo",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Malawi": {
+      "capital": "Lilongwe",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Malaysia": {
+      "capital": "Kuala Lumpur",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Maldives": {
+      "capital": "Male",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Mali": {
+      "capital": "Bamako",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Malta": {
+      "capital": "Valletta",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Mauritania": {
+      "capital": "Nouakchott",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Mauritius": {
+      "capital": "Port Louis",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Mexico": {
+      "capital": "Mexico City",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Moldova": {
+      "capital": "Chisinau",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Monaco": {
+      "capital": "Monaco",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Mongolia": {
+      "capital": "Ulaanbaatar",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Montenegro": {
+      "capital": "Podgorica",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Montserrat": {
+      "capital": "Plymouth",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Morocco": {
+      "capital": "Rabat",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Mozambique": {
+      "capital": "Maputo",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Myanmar (Burma)": {
+      "capital": "Nay Pyi Taw",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Namibia": {
+      "capital": "Windhoek",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Nauru": {
+      "capital": "n/a",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Nepal": {
+      "capital": "Kathmandu",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Netherlands": {
+      "capital": "Amsterdam",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "New Caledonia": {
+      "capital": "Nouméa",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "New Zealand": {
+      "capital": "Wellington",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Nicaragua": {
+      "capital": "Managua",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Niger": {
+      "capital": "Niamey",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Nigeria": {
+      "capital": "Abuja",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "North Korea": {
+      "capital": "Pyongyang",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "North Macedonia": {
+      "capital": "Skopje",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Northern Ireland": {
+      "capital": "Belfast",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Norway": {
+      "capital": "Oslo",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Oman": {
+      "capital": "Muscat",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Pakistan": {
+      "capital": "Islamabad",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Panama": {
+      "capital": "Panama City",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Papua New Guinea": {
+      "capital": "Port Moresby",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Paraguay": {
+      "capital": "Asuncion",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Peru": {
+      "capital": "Lima",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Philippines": {
+      "capital": "Manila",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Poland": {
+      "capital": "Warsaw",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Portugal": {
+      "capital": "Lisbon",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Puerto Rico": {
+      "capital": "San Juan",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Qatar": {
+      "capital": "Doha",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Romania": {
+      "capital": "Bucharest",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Russia": {
+      "capital": "Moscow",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Rwanda": {
+      "capital": "Kigali",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "St Kitts and Nevis": {
+      "capital": "Basseterre",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "St Lucia": {
+      "capital": "Castries",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "St Vincent and the Grenadines": {
+      "capital": "Kingstown",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Samoa": {
+      "capital": "Apia",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "San Marino": {
+      "capital": "San Marino",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Sao Tome and Principe": {
+      "capital": "Sao Tome",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Saudi Arabia": {
+      "capital": "Riyadh",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Scotland": {
+      "capital": "Edinburgh",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Senegal": {
+      "capital": "Dakar",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Serbia": {
+      "capital": "Belgrade",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Seychelles": {
+      "capital": "Victoria",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Sierra Leone": {
+      "capital": "Freetown",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Singapore": {
+      "capital": "Singapore",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Slovakia": {
+      "capital": "Bratislava",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Slovenia": {
+      "capital": "Ljubljana",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Solomon Islands": {
+      "capital": "Honiara",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Somalia": {
+      "capital": "Mogadishu",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "South Africa": {
+      "capital": "Cape Town",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "South Korea": {
+      "capital": "Seoul",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "South Sudan": {
+      "capital": "Juba",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Spain": {
+      "capital": "Madrid",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Sri Lanka": {
+      "capital": "Colombo",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Sudan": {
+      "capital": "Khartoum",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Suriname": {
+      "capital": "Paramaribo",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Sweden": {
+      "capital": "Stockholm",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Switzerland": {
+      "capital": "Bern",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Syria": {
+      "capital": "Damascus",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Tahiti": {
+      "capital": "Pape'ete",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Taiwan": {
+      "capital": "Taipei",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Tajikistan": {
+      "capital": "Dushanbe",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Tanzania": {
+      "capital": "Dodoma",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Thailand": {
+      "capital": "Bangkok",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Timor-Leste": {
+      "capital": "Dili",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Togo": {
+      "capital": "Lome",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Tonga": {
+      "capital": "Nuku'alofa",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Trinidad and Tobago": {
+      "capital": "Port of Spain",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Tunisia": {
+      "capital": "Tunis",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Turkey": {
+      "capital": "Ankara",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Turks and Caicos Islands": {
+      "capital": "Cockburn Town",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Turkmenistan": {
+      "capital": "Ashgabat",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Tuvalu": {
+      "capital": "Funafuti",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Uganda": {
+      "capital": "Kampala",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Ukraine": {
+      "capital": "Kiev",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "United Arab Emirates": {
+      "capital": "Abu Dhabi",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "United States": {
+      "capital": "Washington D.C.",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "US Virgin Islands": {
+      "capital": "Charlotte Amalie",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Uruguay": {
+      "capital": "Montevideo",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Uzbekistan": {
+      "capital": "Tashkent",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Vanuatu": {
+      "capital": "Port Vila",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Vatican City": {
+      "capital": "Vatican City",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Venezuela": {
+      "capital": "Caracas",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Vietnam": {
+      "capital": "Hanoi",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Wales": {
+      "capital": "Cardiff",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Yemen": {
+      "capital": "Sana'a",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Zambia": {
+      "capital": "Lusaka",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    },
+    "Zimbabwe": {
+      "capital": "Harare",
+      "times_asked": 0,
+  "correct_count" : 0,
+      "bucket": 1,
+      "date_last_asked": ""
+    }
+  }
+  
