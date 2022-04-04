@@ -99,6 +99,7 @@ def main(start_date):
             console.print(f'Correct Answers : {correct_answers}! \u2713\n', style='bold green')
         else:
             console.print(f'Day {day_number} Testing Complete! \u2713\n', style='bold green')
+            console.print(f'Correct Answers : {correct_answers}! \u2713\n', style='bold green')
 
             # write results back to json file
             with open("data/data.json", "w") as write_file:
@@ -110,6 +111,6 @@ def main(start_date):
         print(e)
 
 if __name__ == '__main__':
-    START_DATE = date(2021, 10, 7)
+    START_DATE = date(2022, 4, 4)
 
     main(START_DATE)
